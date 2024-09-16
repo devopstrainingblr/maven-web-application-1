@@ -5,22 +5,23 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>MithunTechnologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<link href="images/london-eye.jpg" rel="icon">
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Software Solutions. GitHub WebHook demo</h1>
-<h1 align="center"> Welcome to Mithun Software Solutions.......We have a demo on  DevOps Master Program on  14th August  2021  at 7 PM IST for new batch. , This is a weekdays batch  . MSS- Very Good Training center for DevOps with AWS in Maratha Halli and also for Job Assitance Job Support also...Teaching Real Time scnerios and use cases... Some fake guys are giving the fake reviews dont believe those guys..I am requesting everyone. Please give your reviews in FB and Google.</h1>
+<h1 align="center">Welcome to vinay Demo</h1>
+	<h1 align="center"> Welcome to Philips Health Care project developed by <span style="font-family:roboto;">Vinay</span> and <span style="font-family:roboto;">Rakesh</span>.This project deals with health issues caused by the internal organs and took a clear report from MRI scans and CT sacns. Learning DevOps for 5 months </h1>
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mithunlogo.jpg" alt="" width="100">
+		<img src="images/london-eye.jpg" alt="" width="100">
+		<img src="images/20220312134444_IMG_5107.jpg" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-		Mithun Software Solutions, 
-		Martha Halli,
-		Bangalore,
-		+91-9980923226,
+		Philips Healthcare, 
+		BanjaraHills Road no-2,
+		Hyderbad,
+		+91-7013259522,
 		devopstrainingbr@gmail.com
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
